@@ -2,7 +2,7 @@
 
 本 Skill 在 WorkBuddy 中固定走配对码。安装后直接发出以下引导，不先问是否打开 OAuth，不把“能打开浏览器”“有登录按钮”或“服务端支持 OAuth”当作已完成原生接入的证据。这是当前 Skill 的接入策略，不是对 WorkBuddy 产品整体能力的判断。
 
-> DiffMind AI 已安装。请打开 [DiffMind 网站](https://www.diffmind.ai)，进入「个人资料 → 凭证」，生成配对码后继续完成配对。请勿发送密码或长期访问令牌。
+> DiffMind AI 已安装。请打开 [DiffMind 网站](https://app.diffmind.ai)，进入「个人资料 → 凭证」，生成配对码后继续完成配对。请勿发送密码或长期访问令牌。
 
 ## 安装与配对
 
