@@ -2,7 +2,7 @@
 
 让你的 AI 智能体连接 DiffMind，查最新资料、检索中英文论文、下载文献全文，也能让多个模型分别回答同一个问题。
 
-[DiffMind 官网](https://www.diffmind.ai)
+[DiffMind 官网](https://app.diffmind.ai)
 
 ## 功能概览
 
@@ -27,7 +27,7 @@ npx skills add https://github.com/DiffMind/skills --skill diffmind-ai
 
 ## 连接账号
 
-需要一个可用的 DiffMind 账号。可前往 [DiffMind 官网](https://www.diffmind.ai) 登录。
+需要一个可用的 DiffMind 账号。可前往 [DiffMind 官网](https://app.diffmind.ai) 登录。
 
 | 客户端 | 授权方式 |
 | --- | --- |
@@ -36,7 +36,7 @@ npx skills add https://github.com/DiffMind/skills --skill diffmind-ai
 
 OAuth 首次连接默认申请检索和模型聊天两项权限，由用户在授权页面确认。已有连接如果只获得检索权限，使用模型聊天前需要补充授权。
 
-使用 WorkBuddy 或豆包时，打开 [DiffMind 官网](https://www.diffmind.ai)，进入「个人资料 → 凭证」生成配对码，按智能体提示提供登录邮箱和配对码。请勿发送密码、Cookie 或长期访问令牌。
+使用 WorkBuddy 或豆包时，打开 [DiffMind 官网](https://app.diffmind.ai)，进入「个人资料 → 凭证」生成配对码，按智能体提示提供登录邮箱和配对码。请勿发送密码、Cookie 或长期访问令牌。
 
 ## 使用示例
 
@@ -80,7 +80,7 @@ OAuth 首次连接默认申请检索和模型聊天两项权限，由用户在�
 
 ### 使用记录
 
-想回头看看用过什么，前往 [DiffMind 网站](https://www.diffmind.ai) 查看。
+想回头看看用过什么，前往 [DiffMind 网站](https://app.diffmind.ai) 查看。
 
 ## 点数与确认
 
