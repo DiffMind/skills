@@ -1,0 +1,6 @@
+interface:
+  display_name: "DiffMind AI"
+  short_description: "明确指定 DiffMind 时连接固定服务，付费调用前提示可能扣点并等待确认"
+  default_prompt: "使用 $diffmind-ai 帮我检索英文文献；连接及本次付费调用均先提示我确认。"
+policy:
+  allow_implicit_invocation: true
